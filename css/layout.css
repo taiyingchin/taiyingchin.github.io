@@ -17,4 +17,5 @@ nav{
 ul{
     width: 50%;
     margin-left: auto;
+    list-style-type: none;
 }
