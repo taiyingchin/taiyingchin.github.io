@@ -3,13 +3,13 @@
     vertical-align: top;
 }
 
-.logo img{ /*targeting image logo*/
+.logo{ /*targeting image logo*/
     padding: 1px;
     width: 49px;
     height: 67px;
 }
 
-.logoname p{ /*targeting text next to logo*/
+.logoname{ /*targeting text next to logo*/
     margin: 2px; 
     font-size: 50px;
 }
