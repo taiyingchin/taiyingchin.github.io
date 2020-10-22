@@ -10,8 +10,10 @@
 }
 
 .logoname{ /*targeting text next to logo*/
-    margin: 2px; 
+    margin: 5%;
+    padding: 1%;
     font-size: 50px;
+    display: inline-block;
 }
 
 nav{
