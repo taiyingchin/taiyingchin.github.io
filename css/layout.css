@@ -3,19 +3,29 @@
     vertical-align: top;
 }
 
-div.logo{
-    width: 23%;
-    padding: 1%;
-    text-align: center;
+.logo img{ /*targeting image logo*/
+    padding: 1px;
+    width: 49px;
+    height: 67px;
+}
+
+.logoname p{ /*targeting text next to logo*/
+    margin: 2px; 
+    font-size: 50px;
 }
 
 nav{
-    width: 73%;
-    padding: 1%
+    width: 50%;
+    padding: 1%;
+    float: right;
 }
 
-ul{
-    width: 50%;
+ul{ /*unordered list -> I don't understand width*/
+    width: 75%;
     margin-left: auto;
-    list-style-type: none;
+}
+
+ul li{ /*setting font size and padding for inner list content*/
+    font-size: 50px;
+    padding: 0px 27px 0px 27px;
 }
