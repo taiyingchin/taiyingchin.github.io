@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            taiyingchin
+        </title>
+        <link rel = "stylesheet" href = "/css/layout.css">
+    </head>
+    <body>
+
+        <!-- Navigation Bar -->
+        <header>
+            <div class = "navbar">
+                <div class = "container-fluid flex">
+                    <img src="/images/logo.png" alt="TC">
+                    <nav>
+                        <ul>
+                            <li><h1><a href="#">Work</a></h1></li>
+                            <li><h1><a href="#">About</a></h1></li>
+                            <li><h1><a href="#">Resume</a></h1></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </header>
+
+        <!-- About Me -->
+        <section class = "herosection">
+            <div class= "container-fluid flex">
+                <div class="herosection-img">
+                    <div class="inner-container-img">
+                        <img src="/images/Ontario.jpeg" alt="Standing in Ontario">
+                    </div>
+                </div>
+                <div class= "herosection-text">
+                    <div class="inner-container-text">
+                        <p>Hi, I’m TaiYing. I’m a UI/UX designer that focuses on building simple solutions to complex problems.</p>
+                        <p>My goal is to provide an experience to users that empower their quality of life. Through completing a project-based boot camp with the University of Minnesota, I have experienced each step of the entire UX design process. Working in this way has allowed me to comprehend and appreciate each step of the design process and how it all fits together to create the final product.</p>
+                        <a href="#" class = "btn btn-outline">Let's get in contact!</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <footer class = "mainfooter">
+            <div class= "container-fluid flex">
+                <p>TaiYing Chin</p>
+                <nav>
+                    <ul>
+                        <li><a href = "#">Email: tc3503@gmail.com</a></li>
+                        <li><a href = "#">Instagram: asiantokenkid</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </footer>
+    </body>
+</html>
