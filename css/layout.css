@@ -84,10 +84,18 @@ h1, h2, h3, h4{ /* default for h1 - h4 */
     text-align: center;
 }
 
+.herosection .btn{
+    margin: 10px 0;
+}
+
 .inner-container-text{
     /* border: 1px solid red; */
     width: 700px;
     height: auto;
+}
+
+.inner-container-text p{
+    padding: 10px 0;
 }
 
 .inner-container-img{
